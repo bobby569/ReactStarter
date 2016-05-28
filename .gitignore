@@ -1,7 +1,15 @@
 /node_modules
-bundle.js
-npm-debug.log
+/dist
+
+*.log
+
+# OS X
+.DS_Store
+Thumbs.db
 
 # IntelliJ
 *.iml
 /.idea
+
+# VSCode
+.vs_code
