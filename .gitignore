@@ -2,6 +2,7 @@
 /dist
 
 *.log
+*.js.snap
 
 # OS X
 .DS_Store

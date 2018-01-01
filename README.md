@@ -3,24 +3,36 @@
 ### Checkout the repo
 
 ```
-$ git clone https://github.com/bobby569/react-starter.git
+$ git clone git@github.com:bobby569/ReactStarter.git
+$ cd ReactStarter
 ```
 
-### Install dependencies
+### Install dependencies with yarn
 
 ```
-$ cd react-starter
-$ npm install
+$ yarn
+```
+
+### Start in development mode
+
+```
+$ yarn start
+```
+
+### Testing using jest
+
+```
+$ yarn test
 ```
 
 ### Build
 
 ```
-$ npm run build
+$ yarn build
 ```
 
 ### Deploy to Github Page
 
 ```
-$ npm run deploy
+$ yarn deploy
 ```
